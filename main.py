@@ -12,10 +12,11 @@ import time
 
 
 #different token to make request thanks to tweepy
-access_token = '1159875631670280201-OwZDsUeS6OLBhWQvgfrfSFYKT7zGTh'
-access_token_secret = 'AvQvErKyVeWSqY2oQXzSgMFPvWcIHsfumgaVdJwOxmNWE'
-consumer_key = 'ZAMVzUS5k26TOHfseycKXcmQc'
-consumer_secret = 'Rk31yi8P4nuJVfUCpb6dp9zZ4XPGqcZ3fkdjpDF62oO8kUiot8'
+
+access_token = 'your token here'
+access_token_secret = 'your token here'
+consumer_key = 'your toker here'
+consumer_secret = 'your token here'
     
 #using our credential to instantiate a connection with tweepy
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
