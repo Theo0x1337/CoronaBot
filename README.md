@@ -1,2 +1,2 @@
 # CoronaBot
-Twitter bot providing information about the interest of people on twitter about coronavirus
+Twitter bot providing stats on the evolution of the coronavirus in France and in the world.
